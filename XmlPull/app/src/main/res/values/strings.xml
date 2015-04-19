@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PULL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pull_xml">解析xml</string>
+</resources>
